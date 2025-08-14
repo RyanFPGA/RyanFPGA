@@ -96,14 +96,26 @@
 
 ![Xilinx](https://img.shields.io/badge/Xilinx-E50000?style=for-the-badge&logoColor=white)
 ![Intel](https://img.shields.io/badge/Intel_FPGA-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![易灵思](https://img.shields.io/badge/易灵思-00C851?style=for-the-badge&logoColor=white)
+![安路](https://img.shields.io/badge/安路-FF9500?style=for-the-badge&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
 ### 🎨 设计工具
 
+![Vivado](https://img.shields.io/badge/Vivado-E50000?style=for-the-badge&logoColor=white)
+![Quartus](https://img.shields.io/badge/Quartus-0071C5?style=for-the-badge&logoColor=white)
+![TD](https://img.shields.io/badge/TD-00C851?style=for-the-badge&logoColor=white)
+![Efinity](https://img.shields.io/badge/Efinity-FF9500?style=for-the-badge&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logoColor=white)
 ![Altium](https://img.shields.io/badge/Altium-A5915F?style=for-the-badge&logoColor=white)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logoColor=white)
+
+### 🚀 开发工具
+
+![POS](https://img.shields.io/badge/POS-9C27B0?style=for-the-badge&logoColor=white)
+![Cowin](https://img.shields.io/badge/Cowin-607D8B?style=for-the-badge&logoColor=white)
+![ModelSim](https://img.shields.io/badge/ModelSim-2196F3?style=for-the-badge&logoColor=white)
+![Questa](https://img.shields.io/badge/Questa-4CAF50?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -210,8 +222,6 @@
 <div align="center">
 
 
-<img src="https://komarev.com/ghpvc/?username=RyanFPGA&label=访问量&color=F85D7F&style=for-the-badge" alt="Profile views"/>
-<img src="https://img.shields.io/github/last-commit/RyanFPGA/RyanFPGA?label=最后更新&style=for-the-badge&color=36BCF7" alt="Last commit"/>
 
 ### 💭 *"Innovation is the ability to see change as an opportunity"*
 
