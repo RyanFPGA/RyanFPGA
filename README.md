@@ -26,6 +26,7 @@
 <td width="50%" align="center" style="border: none; padding: 30px 20px;">
 
 
+
 ### 👨‍💻 个人简介
 
 <br/>
@@ -133,11 +134,7 @@
 
 ## 🌟 精选项目
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RyanFPGA&repo=RyanFPGA&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2F80ED&text_color=333333&icon_color=2F80ED)](https://github.com/RyanFPGA/RyanFPGA)
-
-
-</div>
 
 <!-- 项目计数器 -->
 <img src="https://img.shields.io/badge/🏆_集创赛全国一等奖-2024-FFD700?style=for-the-badge&logoColor=white"/>
