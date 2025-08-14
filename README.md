@@ -151,12 +151,12 @@
 
 ## 📊 GitHub 数据统计
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RyanFPGA&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanFPGA&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RyanFPGA&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2F80ED&icon_color=2F80ED&text_color=333333"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanFPGA&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2F80ED&text_color=333333"/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=RyanFPGA&theme=redical&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&hide_border=true"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=RyanFPGA&theme=minimal&bg_color=FFFFFF&color=2F80ED&line=2F80ED&point=333333&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RyanFPGA&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RyanFPGA&theme=default&hide_border=true&background=FFFFFF&stroke=2F80ED&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED&sideNums=333333&sideLabels=666666&dates=333333"/>
 
 </div>
 
