@@ -16,44 +16,56 @@
 
 <!-- 关于我 -->
 
-<details>
-<summary><b>🚀 关于我</b></summary>
-<br/>
+<div align="center">
 
 
-```typescript
-interface FPGAEngineer {
-  name: string;
-  role: string;
-  location: string;
-  experience: string;
-  achievement: string;
-  influence: {
-    fans: string;
-    platforms: string[];
-    readership: string;
-  };
-  expertise: string[];
-  philosophy: string;
-}
+## 🚀 关于我
 
-const ryan: FPGAEngineer = {
-  name: "Ryan",
-  role: "FPGA技术博主 & 硬件工程师",
-  location: "中国 🇨🇳",
-  experience: "5年FPGA开发经验",
-  achievement: "2024年集创赛紫光同创杯全国一等奖 🏆",
-  influence: {
-    fans: "全网粉丝1W+",
-    platforms: ["CSDN", "微信公众号", "B站"],
-    readership: "技术博客全网阅读量20W+"
-  },
-  expertise: ["FPGA图像处理", "高低速接口", "信号处理"],
-  philosophy: "深耕技术，分享知识，启发创新 ✨"
-};
-```
+<table width="100%" style="border: none;">
+<tr>
+<td width="45%" align="center" style="border: none;">
 
-</details>
+
+### 👨‍💻 个人简介
+
+🎓 **FPGA设计工程师**  
+📅 **5年开发经验**  
+🏆 **2024集创赛全国一等奖**  
+📍 **中国**
+
+</td>
+<td width="10%" style="border: none;"></td>
+<td width="45%" align="center" style="border: none;">
+
+### 📊 影响力数据
+
+👥 **全网粉丝：1W+**  
+📖 **博客阅读：20W+**  
+📱 **平台：CSDN • 公众号 • B站**  
+🌟 **专注FPGA技术分享**
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🎯 专业领域
+
+<div align="center">
+
+
+![FPGA图像处理](https://img.shields.io/badge/🖼️-FPGA图像处理-FF6B6B?style=flat-square&labelColor=2C3E50)
+![高低速接口](https://img.shields.io/badge/⚡-高低速接口-4ECDC4?style=flat-square&labelColor=2C3E50)
+![信号处理](https://img.shields.io/badge/📡-信号处理-45B7D1?style=flat-square&labelColor=2C3E50)
+
+</div>
+
+### 💭 个人理念
+
+> *"深耕技术，分享知识，启发创新"*
+
+</div>
 
 <br/>
 
