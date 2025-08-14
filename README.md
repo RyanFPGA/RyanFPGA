@@ -3,7 +3,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ryan%20FPGA&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=硬件工程师%20|%20内容创作者%20|%20创新先锋&descAlignY=51&descAlign=50"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=🔥+FPGA+设计工程师+🔥;💡+硬件技术爱好者+💡;🎬+内容创作达人+🎬;🚀+创新驱动者+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=🏆+2024集创赛全国一等奖+🏆;🔥+5年FPGA开发经验+🔥;📱+全网粉丝1W%2B+📱;📚+博客阅读量20W%2B+📚" alt="Typing SVG" />
 
 <br/>
 
@@ -22,24 +22,34 @@
 
 
 ```typescript
-interface Developer {
+interface FPGAEngineer {
   name: string;
   role: string;
   location: string;
-  skills: string[];
-  passion: string[];
-  currentProject: string;
+  experience: string;
+  achievement: string;
+  influence: {
+    fans: string;
+    platforms: string[];
+    readership: string;
+  };
+  expertise: string[];
   philosophy: string;
 }
 
-const ryan: Developer = {
+const ryan: FPGAEngineer = {
   name: "Ryan",
-  role: "FPGA设计工程师 & 内容创作者",
+  role: "FPGA技术博主 & 硬件工程师",
   location: "中国 🇨🇳",
-  skills: ["FPGA开发", "嵌入式系统", "PCB设计", "内容创作"],
-  passion: ["硬件创新", "技术分享", "社区建设"],
-  currentProject: "打造下一代智能硬件解决方案",
-  philosophy: "用技术连接世界，用内容启发未来 ✨"
+  experience: "5年FPGA开发经验",
+  achievement: "2024年集创赛紫光同创杯全国一等奖 🏆",
+  influence: {
+    fans: "全网粉丝1W+",
+    platforms: ["CSDN", "微信公众号", "B站"],
+    readership: "技术博客全网阅读量20W+"
+  },
+  expertise: ["FPGA图像处理", "高低速接口", "信号处理"],
+  philosophy: "深耕技术，分享知识，启发创新 ✨"
 };
 ```
 
@@ -62,11 +72,11 @@ const ryan: Developer = {
 ### 🔧 硬件工程
 
 ```
-🔹 FPGA开发          ████████████ 90%
-🔹 Verilog/VHDL      ███████████▒ 85%
-🔹 嵌入式系统        ██████████▒▒ 80%
-🔹 PCB设计           ████████▒▒▒▒ 75%
-🔹 信号处理          ███████▒▒▒▒▒ 70%
+🔹 FPGA开发          ████████████ 95%
+🔹 图像处理          ████████████ 90%
+🔹 高低速接口        ███████████▒ 88%
+🔹 信号处理          ███████████▒ 85%
+🔹 Verilog/VHDL      ██████████▒▒ 80%
 ```
 
 </td>
@@ -75,11 +85,11 @@ const ryan: Developer = {
 ### 📚 内容创作
 
 ```
-🔹 技术写作          ████████████ 90%
-🔹 视频制作          ██████████▒▒ 80%
-🔹 社区运营          ████████▒▒▒▒ 75%
-🔹 课程设计          ███████▒▒▒▒▒ 70%
-🔹 品牌建设          ██████▒▒▒▒▒▒ 65%
+🔹 技术写作          ████████████ 95%
+🔹 博客创作          ████████████ 92%
+🔹 社区运营          ██████████▒▒ 80%
+🔹 知识分享          ████████▒▒▒▒ 75%
+🔹 视频制作          ███████▒▒▒▒▒ 70%
 ```
 
 </td>
@@ -155,9 +165,10 @@ const ryan: Developer = {
 </div>
 
 <!-- 项目计数器 -->
-<img src="https://img.shields.io/badge/项目总数-∞-F85D7F?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/代码提交-1000+-36BCF7?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/问题解决-500+-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+<img src="https://img.shields.io/badge/🏆_集创赛全国一等奖-2024-FFD700?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/📱_全网粉丝-1W+-F85D7F?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/📚_博客阅读量-20W+-36BCF7?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/💻_FPGA开发经验-5年-4CAF50?style=for-the-badge&logoColor=white"/>
 
 </div>
 
@@ -174,21 +185,21 @@ const ryan: Developer = {
 <tr>
 <td align="center" width="33%">
 <img src="https://img.icons8.com/color/96/000000/youtube-play.png" width="64"/>
-<br/><b>视频教程</b>
-<br/>深度技术解析
-<br/><a href="https://youtube.com">最新视频 →</a>
+<br/><b>B站频道</b>
+<br/>FPGA技术教程
+<br/><a href="https://bilibili.com">最新视频 →</a>
 </td>
 <td align="center" width="33%">
 <img src="https://img.icons8.com/color/96/000000/blog.png" width="64"/>
-<br/><b>技术博客</b>
-<br/>原创技术文章
-<br/><a href="https://blog.com">最新文章 →</a>
+<br/><b>CSDN博客</b>
+<br/>FPGA技术分享<br/>阅读量20W+
+<br/><a href="https://blog.csdn.net">最新文章 →</a>
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/microphone.png" width="64"/>
-<br/><b>播客节目</b>
-<br/>行业深度访谈
-<br/><a href="https://podcast.com">最新一期 →</a>
+<img src="https://img.icons8.com/color/96/000000/wechat.png" width="64"/>
+<br/><b>微信公众号</b>
+<br/>技术深度解析<br/>粉丝1W+
+<br/><a href="https://mp.weixin.qq.com">关注公众号 →</a>
 </td>
 </tr>
 </table>
