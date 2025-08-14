@@ -23,7 +23,7 @@
 
 <table width="100%" style="border: none; padding: 20px;">
 <tr>
-<td width="48%" align="center" style="border: none; padding: 30px 20px;">
+<td width="60%" align="center" style="border: none; padding: 30px 20px;">
 
 
 ### 👨‍💻 个人简介
@@ -36,7 +36,7 @@
 
 </td>
 <td width="4%" style="border: none;"></td>
-<td width="48%" align="center" style="border: none; padding: 30px 20px;">
+<td width="60%" align="center" style="border: none; padding: 30px 20px;">
 
 ### 📊 影响力数据
 
