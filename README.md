@@ -1,9 +1,8 @@
 <div align="center">
 
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ryan%20FPGA&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=硬件工程师%20|%20内容创作者%20|%20创新先锋&descAlignY=51&descAlign=50"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=🏆+2024集创赛全国一等奖+🏆;🔥+5年FPGA开发经验+🔥;📱+全网粉丝1W%2B+📱;📚+博客阅读量20W%2B+📚" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=%F0%9F%8F%86+2024%E9%9B%86%E5%88%9B%E8%B5%9B%E5%85%A8%E5%9B%BD%E4%B8%80%E7%AD%89%E5%A5%96+%F0%9F%8F%86;%F0%9F%94%A5+5%E5%B9%B4FPGA%E5%BC%80%E5%8F%91%E7%BB%8F%E9%AA%8C+%F0%9F%94%A5;%F0%9F%93%B1+%E5%85%A8%E7%BD%91%E7%B2%89%E4%B8%9D1W%2B+%F0%9F%93%B1;%F0%9F%93%9A+%E5%8D%9A%E5%AE%A2%E9%98%85%E8%AF%BB%E9%87%8F20W%2B+%F0%9F%93%9A" alt="Typing SVG" />
 
 <br/>
 
@@ -72,8 +71,8 @@
 <!-- 技能专长 -->
 
 <div align="center">
-
 <!-- 技术栈 -->
+
 
 <div align="center">
 
@@ -131,8 +130,8 @@
 ## 🌟 精选项目
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RyanFPGA&repo=RyanFPGA&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2F80ED&text_color=333333&icon_color=2F80ED)](https://github.com/RyanFPGA/RyanFPGA)
+
 
 </div>
 
