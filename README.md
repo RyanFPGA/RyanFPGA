@@ -172,7 +172,7 @@
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RyanFPGA&repo=RyanFPGA&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/RyanFPGA/RyanFPGA)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RyanFPGA&repo=RyanFPGA&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2F80ED&text_color=333333&icon_color=2F80ED)](https://github.com/RyanFPGA/RyanFPGA)
 
 </div>
 
