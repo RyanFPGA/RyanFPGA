@@ -84,19 +84,19 @@
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/youtube-play.png" width="64"/>
+<img src="https://img.icons8.com/color/96/000000/bilibili.png" width="64"/>
 <br/><b>B站频道</b>
 <br/>FPGA技术教程
-<br/><a href="https://bilibili.com">最新视频 →</a>
+<br/><a href="https://space.bilibili.com/3546751097113185?spm_id_from=333.337.search-card.all.click">最新视频 →</a>
 </td>
 <td align="center" width="33%">
 <img src="https://img.icons8.com/color/96/000000/blog.png" width="64"/>
 <br/><b>CSDN博客</b>
 <br/>FPGA技术分享<br/>阅读量20W+
-<br/><a href="https://blog.csdn.net">最新文章 →</a>
+<br/><a href="https://blog.csdn.net/Ryansweet716?ops_request_misc=%7B%22request%5Fid%22%3A%2210909972c5da999dbd7685f26fa8e55d%22%2C%22scm%22%3A%2220140713.130064515..%22%7D&request_id=10909972c5da999dbd7685f26fa8e55d&biz_id=206&utm_medium=distribute.pc_search_result.none-task-user-null-2-154590931-null-null.nonecase&utm_term=ChinaRyan&spm=1018.2226.3001.4351">最新文章 →</a>
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/wechat.png" width="64"/>
+<img src="https://www.tencent.net.cn/wp-content/uploads/2022/12/weixin-wechat-1.svg" width="64"/>
 <br/><b>微信公众号</b>
 <br/>技术深度解析<br/>粉丝1W+
 <br/><a href="https://mp.weixin.qq.com">关注公众号 →</a>
