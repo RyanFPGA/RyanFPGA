@@ -199,28 +199,7 @@
 
 <br/>
 
-<!-- 联系方式 -->
 
-<div align="center">
-
-
-
-## 🤝 联系方式
-
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://weibo.com">
-<img src="https://img.shields.io/badge/微博-E6162D?style=for-the-badge&logo=sina-weibo&logoColor=white" alt="微博"/>
-</a>
-<a href="https://bilibili.com">
-<img src="https://img.shields.io/badge/哔哩哔哩-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="B站"/>
-</a>
-<a href="mailto:your.email@domain.com">
-<img src="https://img.shields.io/badge/邮箱-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="邮箱"/>
-</a>
-
-</div>
 
 <br/>
 
