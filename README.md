@@ -1,6 +1,7 @@
 <div align="center">
 
 
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ryan%20FPGA&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=硬件工程师%20|%20内容创作者%20|%20创新先锋&descAlignY=51&descAlign=50"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=%F0%9F%8F%86+2024%E9%9B%86%E5%88%9B%E8%B5%9B%E5%85%A8%E5%9B%BD%E4%B8%80%E7%AD%89%E5%A5%96+%F0%9F%8F%86;%F0%9F%94%A5+5%E5%B9%B4FPGA%E5%BC%80%E5%8F%91%E7%BB%8F%E9%AA%8C+%F0%9F%94%A5;%F0%9F%93%B1+%E5%85%A8%E7%BD%91%E7%B2%89%E4%B8%9D1W%2B+%F0%9F%93%B1;%F0%9F%93%9A+%E5%8D%9A%E5%AE%A2%E9%98%85%E8%AF%BB%E9%87%8F20W%2B+%F0%9F%93%9A" alt="Typing SVG" />
@@ -19,11 +20,13 @@
 <div align="center">
 
 
+
 ## 🚀 关于我
 
 <table width="100%" style="border: none; padding: 20px;">
 <tr>
 <td width="50%" align="center" style="border: none; padding: 30px 20px;">
+
 
 
 
@@ -59,6 +62,7 @@
 <div align="center">
 
 
+
 ![FPGA图像处理](https://img.shields.io/badge/🖼️-FPGA图像处理-FF6B6B?style=flat-square&labelColor=2C3E50)
 ![高低速接口](https://img.shields.io/badge/⚡-高低速接口-4ECDC4?style=flat-square&labelColor=2C3E50)
 ![信号处理](https://img.shields.io/badge/📡-信号处理-45B7D1?style=flat-square&labelColor=2C3E50)
@@ -68,6 +72,39 @@
 ### 💭 个人理念
 
 > *"力求做到最好，做到极致"*
+
+<!-- 内容创作 -->
+
+<div align="center">
+
+
+
+## 🎬 内容创作平台
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/youtube-play.png" width="64"/>
+<br/><b>B站频道</b>
+<br/>FPGA技术教程
+<br/><a href="https://bilibili.com">最新视频 →</a>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/blog.png" width="64"/>
+<br/><b>CSDN博客</b>
+<br/>FPGA技术分享<br/>阅读量20W+
+<br/><a href="https://blog.csdn.net">最新文章 →</a>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/wechat.png" width="64"/>
+<br/><b>微信公众号</b>
+<br/>技术深度解析<br/>粉丝1W+
+<br/><a href="https://mp.weixin.qq.com">关注公众号 →</a>
+</td>
+</tr>
+</table>
+
+
 
 </div>
 
@@ -79,7 +116,9 @@
 <!-- 技术栈 -->
 
 
+
 <div align="center">
+
 
 
 ## 🛠️ 技术栈
@@ -126,6 +165,7 @@
 <div align="center">
 
 
+
 ## 📊 GitHub 数据统计
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RyanFPGA&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2F80ED&icon_color=2F80ED&text_color=333333"/>
@@ -144,6 +184,7 @@
 <div align="center">
 
 
+
 ## 🌟 精选项目
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RyanFPGA&repo=RyanFPGA&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2F80ED&text_color=333333&icon_color=2F80ED)](https://github.com/RyanFPGA/RyanFPGA)
@@ -158,44 +199,10 @@
 
 <br/>
 
-<!-- 内容创作 -->
-
-<div align="center">
-
-
-## 🎬 内容创作平台
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/youtube-play.png" width="64"/>
-<br/><b>B站频道</b>
-<br/>FPGA技术教程
-<br/><a href="https://bilibili.com">最新视频 →</a>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/blog.png" width="64"/>
-<br/><b>CSDN博客</b>
-<br/>FPGA技术分享<br/>阅读量20W+
-<br/><a href="https://blog.csdn.net">最新文章 →</a>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/wechat.png" width="64"/>
-<br/><b>微信公众号</b>
-<br/>技术深度解析<br/>粉丝1W+
-<br/><a href="https://mp.weixin.qq.com">关注公众号 →</a>
-</td>
-</tr>
-</table>
-
-
-</div>
-
-<br/>
-
 <!-- 联系方式 -->
 
 <div align="center">
+
 
 
 ## 🤝 联系方式
@@ -223,6 +230,7 @@
 
 
 
+
 ### 💭 *价值观（行动准则）*
 
 **持续创新 • 聚焦专精 • 坦诚清晰 • 求真务实 • 敢为极致 • 共同成长**
@@ -230,6 +238,7 @@
 <h3>
 🌟 如果我的内容对你有帮助，请给我的项目点个 Star！🌟
 </h3>
+
 
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake Animation" />
