@@ -63,7 +63,7 @@
 
 
 
-![FPGA图像处理](https://img.shields.io/badge/🖼️-FPGA图像处理-FF6B6B?style=flat-square&labelColor=2C3E50)
+![图像处理](https://img.shields.io/badge/🖼️-图像处理-FF6B6B?style=flat-square&labelColor=2C3E50)
 ![高低速接口](https://img.shields.io/badge/⚡-高低速接口-4ECDC4?style=flat-square&labelColor=2C3E50)
 ![信号处理](https://img.shields.io/badge/📡-信号处理-45B7D1?style=flat-square&labelColor=2C3E50)
 
