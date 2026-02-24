@@ -1,16 +1,13 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ryan%20FPGA&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=FPGA工程师%20|%20内容创作者&descAlignY=55&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ryan%20FPGA&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=FPGA工程师%20|%20内容创作者%20%&descAlignY=51&descAlign=50"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=%F0%9F%8F%86+%E6%9B%BE%E9%9B%86%E5%88%9B%E8%B5%9B%E5%9B%BD%E4%B8%80%E9%80%89%E6%89%8B+%F0%9F%8F%86;%F0%9F%94%A5+5%E5%B9%B4FPGA%E5%BC%80%E5%8F%91%E7%BB%8F%E9%AA%8C+%F0%9F%94%A5;%F0%9F%93%B1+%E5%85%A8%E7%BD%91%E7%B2%89%E4%B8%9D1W%2B+%F0%9F%93%B1;%F0%9F%93%9A+%E5%8D%9A%E5%AE%A2%E9%98%85%E8%AF%BB%E9%87%8F20W%2B+%F0%9F%93%9A" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=曾集创赛国一选手;5年FPGA开发经验;全网粉丝1W%2B;博客阅读量20W%2B" alt="Typing SVG" />
-
-<br/>
-<br/>
-
-[![GitHub followers](https://img.shields.io/github/followers/RyanFPGA?label=关注者&style=for-the-badge&color=2F80ED&labelColor=1a1a2e)](https://github.com/RyanFPGA)
-[![GitHub User's stars](https://img.shields.io/github/stars/RyanFPGA?affiliations=OWNER&label=获得星标&style=for-the-badge&color=2F80ED&labelColor=1a1a2e)](https://github.com/RyanFPGA)
+[![GitHub followers](https://img.shields.io/github/followers/RyanFPGA?label=关注者&style=social)](https://github.com/RyanFPGA)
+[![GitHub User's stars](https://img.shields.io/github/stars/RyanFPGA?affiliations=OWNER&label=获得星标&style=social)](https://github.com/RyanFPGA)
 
 </div>
 
@@ -23,6 +20,8 @@
 </div>
 
 <br/>
+
+<div align="center">
 
 <table width="100%">
 <tr>
@@ -37,6 +36,8 @@ FPGA设计工程师
 5年开发经验
 
 曾集创赛国一选手
+
+专注FPGA技术研究
 
 <br/>
 
@@ -61,6 +62,8 @@ CSDN • 公众号 • B站
 </td>
 </tr>
 </table>
+
+</div>
 
 <br/>
 
@@ -150,34 +153,13 @@ CSDN • 公众号 • B站
 
 <div align="center">
 
-<table width="100%">
-<tr>
-<td width="50%" align="center">
+### 公司价值观
 
-### 公司使命
-
-顺应时代发展新格局集成AI+芯片技术新突破
-
-用AI重塑芯片研发效率
-
-**予力客户，成就不凡 | 力求做到最好，做到极致**
-
-</td>
-<td width="50%" align="center">
-
-### 公司愿景
-
-用 **IC Coder** 实现AI智能体自主芯片设计全流程
-
-助力开发者提效，赋能企业赢动更大市场
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
-### 公司价值观
+<div align="center">
 
 ![持续创新](https://img.shields.io/badge/持续创新-2F80ED?style=for-the-badge&labelColor=1a1a2e)
 ![聚焦专精](https://img.shields.io/badge/聚焦专精-2F80ED?style=for-the-badge&labelColor=1a1a2e)
