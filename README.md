@@ -35,9 +35,7 @@ FPGA设计工程师
 
 5年开发经验
 
-曾集创赛国一选手
-
-专注FPGA技术研究
+2024集创赛全国一等奖
 
 <br/>
 
@@ -49,9 +47,9 @@ FPGA设计工程师
 
 <br/>
 
-全网粉丝 1W+
+全网粉丝：1W+
 
-博客阅读 20W+
+博客阅读：20W+
 
 CSDN • 公众号 • B站
 
@@ -73,19 +71,33 @@ CSDN • 公众号 • B站
 
 </div>
 
-<br/>
-
 <div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+<br/><b>图像处理</b>
+<br/>
+<sub>ISP算法 • 图像增强</sub>
+</td>
+<td align="center" width="33%">
+<br/><b>高低速接口</b>
+<br/>
+<sub>MIPI • LVDS • PCIe</sub>
 
-![图像处理](https://img.shields.io/badge/图像处理-FF6B6B?style=for-the-badge&labelColor=1a1a2e)
-![高低速接口](https://img.shields.io/badge/高低速接口-4ECDC4?style=for-the-badge&labelColor=1a1a2e)
-![信号处理](https://img.shields.io/badge/信号处理-45B7D1?style=for-the-badge&labelColor=1a1a2e)
+</td>
+<td align="center" width="33%">
+<br/><b>信号处理</b>
+<br/>
+<sub>FFT • 滤波器设计</sub>
+</td>
+</tr>
+</table>
 
 <br/>
 
 ### 个人理念
 
-> _"力求做到最好，做到极致"_
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=%E2%9C%A8+%E5%8A%9B%E6%B1%82%E5%81%9A%E5%88%B0%E6%9C%80%E5%A5%BD%EF%BC%8C%E5%81%9A%E5%88%B0%E6%9E%81%E8%87%B4+%E2%9C%A8" alt="Motto" />
 
 </div>
 
@@ -98,10 +110,11 @@ CSDN • 公众号 • B站
 ## 公司介绍
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=2000&pause=1000&color=2F80ED&center=true&vCenter=true&width=900&lines=%E6%88%90%E9%83%BD%E9%B9%8F%E9%87%8E%E5%98%89%E9%80%94%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8" alt="Company Name" />
-</br>
-既是AI应用行业解决方案提供商，也是芯片行业解决方案提供商
-下设AI应用部门、芯片设计与验证部门和教仪事业部三大板块，
-专注做 AI 赋能芯片研发的先行者
+<br/>
+
+下设 **AI应用部门** • **芯片设计与验证部门** • **教仪事业部** 三大板块
+
+专注做 **AI 赋能芯片研发**的先行者
 
 <br/>
 
@@ -109,41 +122,27 @@ CSDN • 公众号 • B站
 
 </div>
 
-<br/>
-
 <table width="100%">
 <tr>
 <td width="33%" align="center" valign="top">
 
 ### AI应用部门
 
-<br/>
-
-沉淀了私有化大模型、多云混合部署、智能体架构研发、问题检索、数据治理与合规的一站式能力。
-
-<br/>
+沉淀了私有化大模型、多云混合部署、智能体架构研发、问题检索、数据治理与合规的一站式能力
 
 </td>
 <td width="33%" align="center" valign="top">
 
 ### 芯片设计与验证部门
 
-<br/>
-
-沉淀了在半导体、时域与可靠性约束下完成从需求梳理、系统架构、RTL/固件开发、仿真验证、板级调试到量产交付的全流程实施能力。
-
-<br/>
+沉淀了在半导体、时域与可靠性约束下完成从需求梳理、系统架构、RTL/固件开发、仿真验证、板级调试到量产交付的全流程实施能力
 
 </td>
 <td width="33%" align="center" valign="top">
 
 ### 教仪事业部
 
-<br/>
-
-为合作高校带来高品质教学改革、AI智能体应用、实验室建设等解决方案，IC Coder高校提供赋能力高校培养更高质量的人才。
-
-<br/>
+为合作高校带来高品质教学改革、AI智能体应用、实验室建设等解决方案，IC Coder高校提供赋能力高校培养更高质量的人才
 
 </td>
 </tr>
@@ -190,31 +189,33 @@ CSDN • 公众号 • B站
 
 ## 内容创作平台
 
-<table>
+<table width="90%">
   <tr>
   <td align="center" width="25%">
-  <img src="https://img.icons8.com/color/96/000000/bilibili.png" width="64"/>
+  <a href="https://space.bilibili.com/3546751097113185?spm_id_from=333.337.search-card.all.click">
+  <img src="https://img.icons8.com/color/96/000000/bilibili.png" width="72"/>
   <br/><b>B站频道</b>
-  <br/>FPGA技术教程
-  <br/><a href="https://space.bilibili.com/3546751097113185?spm_id_from=333.337.search-card.all.click">最新视频 →</a>
+  <br/><sub>FPGA技术教程</sub>
+  </a>
   </td>
   <td align="center" width="25%">
-  <img src="https://img.icons8.com/color/96/000000/tiktok.png" width="64"/>
+  <a href="https://www.douyin.com/user/MS4wLjABAAAAHJPObv8iJ8zmUneNi20g6lZ0m5AAHMRxQJpsciMQhajYRcLxu6E2MNQXJzN631IE?from_tab_name=main&relation=0&vid=7555835852644044067">
+  <img src="https://img.icons8.com/color/96/000000/tiktok.png" width="72"/>
   <br/><b>抖音账号</b>
-  <br/>FPGA短视频教学
-  <br/><a href="https://www.douyin.com/user/MS4wLjABAAAAHJPObv8iJ8zmUneNi20g6lZ0m5AAHMRxQJpsciMQhajYRcLxu6E2MNQXJzN631IE?from_tab_name=main&relation=0&vid=7555835852644044067">关注账号 →</a>
-  </td>
-    <td align="center" width="25%">
-  <img src="https://www.tencent.net.cn/wp-content/uploads/2022/12/weixin-wechat-1.svg" width="64"/>
-  <br/><b>微信公众号</b>
-  <br/>FPGA深度解析
-  <br/><a href="#">关注公众号 →</a>
+  <br/><sub>FPGA短视频教学</sub>
+  </a>
   </td>
   <td align="center" width="25%">
-  <img src="https://img.icons8.com/color/96/000000/blog.png" width="64"/>
+  <img src="https://www.tencent.net.cn/wp-content/uploads/2022/12/weixin-wechat-1.svg" width="72"/>
+  <br/><b>微信公众号</b>
+  <br/><sub>FPGA深度解析</sub>
+  </td>
+  <td align="center" width="25%">
+  <a href="https://blog.csdn.net/Ryansweet716?ops_request_misc=%7B%22request%5Fid%22%3A%2210909972c5da999dbd7685f26fa8e55d%22%2C%22scm%22%3A%2220140713.130064515..%22%7D&request_id=10909972c5da999dbd7685f26fa8e55d&biz_id=206&utm_medium=distribute.pc_search_result.none-task-user-null-2-154590931-null-null.nonecase&utm_term=ChinaRyan&spm=1018.2226.3001.4351">
+  <img src="https://img.icons8.com/color/96/000000/blog.png" width="72"/>
   <br/><b>CSDN博客</b>
-  <br/>FPGA技术分享<br/>阅读量20W+
-  <br/><a href="https://blog.csdn.net/Ryansweet716?ops_request_misc=%7B%22request%5Fid%22%3A%2210909972c5da999dbd7685f26fa8e55d%22%2C%22scm%22%3A%2220140713.130064515..%22%7D&request_id=10909972c5da999dbd7685f26fa8e55d&biz_id=206&utm_medium=distribute.pc_search_result.none-task-user-null-2-154590931-null-null.nonecase&utm_term=ChinaRyan&spm=1018.2226.3001.4351">最新文章 →</a>
+  <br/><sub>阅读量20W+</sub>
+  </a>
   </td>
   </tr>
   </table>
@@ -241,22 +242,32 @@ CSDN • 公众号 • B站
 
 ## 精选项目
 
-<table>
+<table width="90%">
 <tr>
 <td width="50%" align="center">
 
+<a href="https://github.com/RyanFPGA/Dual-Channel-ADC-Collection-Module">
+</a>
+
 ### [Dual-Channel-ADC-Collection-Module](https://github.com/RyanFPGA/Dual-Channel-ADC-Collection-Module)
 
-双通道ADC采集模块
+<sub>双通道ADC采集模块</sub>
+
+<br/>
 
 ![Stars](https://img.shields.io/github/stars/RyanFPGA/Dual-Channel-ADC-Collection-Module?style=social)
 
 </td>
 <td width="50%" align="center">
 
+<a href="https://github.com/RyanFPGA/2025-FPGARACE-ZiGuang-2">
+</a>
+
 ### [2025-FPGARACE-ZiGuang-2](https://github.com/RyanFPGA/2025-FPGARACE-ZiGuang-2)
 
-2025 FPGA竞赛紫光项目
+<sub>2025 FPGA竞赛紫光项目</sub>
+
+<br/>
 
 ![Stars](https://img.shields.io/github/stars/RyanFPGA/2025-FPGARACE-ZiGuang-2?style=social)
 
