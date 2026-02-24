@@ -93,8 +93,7 @@ CSDN • 公众号 • B站
 
 ## 公司介绍
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=2000&pause=1000&color=2F80ED&center=true&vCenter=true&width=900&lines=%E6%88%90%E9%83%BD%E9%B9%8F%E9%87%8E%E5%98%89%E9%80%94%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8" alt="Company Name" />
-<br/>
+<h1 style="color: #2F80ED; font-weight: 500; border: none;">成都鹏野嘉图科技有限公司</h1>
 
 下设 **AI应用部门** • **芯片设计与验证部门** • **教仪事业部** 三大板块
 
