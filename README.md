@@ -72,26 +72,10 @@ CSDN • 公众号 • B站
 </div>
 
 <div align="center">
-<table>
-<tr>
-<td align="center" width="33%">
-<br/><b>图像处理</b>
-<br/>
-<sub>ISP算法 • 图像增强</sub>
-</td>
-<td align="center" width="33%">
-<br/><b>高低速接口</b>
-<br/>
-<sub>MIPI • LVDS • PCIe</sub>
 
-</td>
-<td align="center" width="33%">
-<br/><b>信号处理</b>
-<br/>
-<sub>FFT • 滤波器设计</sub>
-</td>
-</tr>
-</table>
+![图像处理](https://img.shields.io/badge/图像处理-FF6B6B?style=for-the-badge&labelColor=1a1a2e)
+![高低速接口](https://img.shields.io/badge/高低速接口-4ECDC4?style=for-the-badge&labelColor=1a1a2e)
+![信号处理](https://img.shields.io/badge/信号处理-45B7D1?style=for-the-badge&labelColor=1a1a2e)
 
 <br/>
 
@@ -189,33 +173,31 @@ CSDN • 公众号 • B站
 
 ## 内容创作平台
 
-<table width="90%">
+<table>
   <tr>
   <td align="center" width="25%">
-  <a href="https://space.bilibili.com/3546751097113185?spm_id_from=333.337.search-card.all.click">
-  <img src="https://img.icons8.com/color/96/000000/bilibili.png" width="72"/>
+  <img src="https://img.icons8.com/color/96/000000/bilibili.png" width="64"/>
   <br/><b>B站频道</b>
-  <br/><sub>FPGA技术教程</sub>
-  </a>
+  <br/>FPGA技术教程
+  <br/><a href="https://space.bilibili.com/3546751097113185?spm_id_from=333.337.search-card.all.click">最新视频 →</a>
   </td>
   <td align="center" width="25%">
-  <a href="https://www.douyin.com/user/MS4wLjABAAAAHJPObv8iJ8zmUneNi20g6lZ0m5AAHMRxQJpsciMQhajYRcLxu6E2MNQXJzN631IE?from_tab_name=main&relation=0&vid=7555835852644044067">
-  <img src="https://img.icons8.com/color/96/000000/tiktok.png" width="72"/>
+  <img src="https://img.icons8.com/color/96/000000/tiktok.png" width="64"/>
   <br/><b>抖音账号</b>
-  <br/><sub>FPGA短视频教学</sub>
-  </a>
+  <br/>FPGA短视频教学
+  <br/><a href="https://www.douyin.com/user/MS4wLjABAAAAHJPObv8iJ8zmUneNi20g6lZ0m5AAHMRxQJpsciMQhajYRcLxu6E2MNQXJzN631IE?from_tab_name=main&relation=0&vid=7555835852644044067">关注账号 →</a>
   </td>
-  <td align="center" width="25%">
-  <img src="https://www.tencent.net.cn/wp-content/uploads/2022/12/weixin-wechat-1.svg" width="72"/>
+    <td align="center" width="25%">
+  <img src="https://www.tencent.net.cn/wp-content/uploads/2022/12/weixin-wechat-1.svg" width="64"/>
   <br/><b>微信公众号</b>
-  <br/><sub>FPGA深度解析</sub>
+  <br/>FPGA深度解析
+  <br/><a href="#">关注公众号 →</a>
   </td>
   <td align="center" width="25%">
-  <a href="https://blog.csdn.net/Ryansweet716?ops_request_misc=%7B%22request%5Fid%22%3A%2210909972c5da999dbd7685f26fa8e55d%22%2C%22scm%22%3A%2220140713.130064515..%22%7D&request_id=10909972c5da999dbd7685f26fa8e55d&biz_id=206&utm_medium=distribute.pc_search_result.none-task-user-null-2-154590931-null-null.nonecase&utm_term=ChinaRyan&spm=1018.2226.3001.4351">
-  <img src="https://img.icons8.com/color/96/000000/blog.png" width="72"/>
+  <img src="https://img.icons8.com/color/96/000000/blog.png" width="64"/>
   <br/><b>CSDN博客</b>
-  <br/><sub>阅读量20W+</sub>
-  </a>
+  <br/>FPGA技术分享<br/>阅读量20W+
+  <br/><a href="https://blog.csdn.net/Ryansweet716?ops_request_misc=%7B%22request%5Fid%22%3A%2210909972c5da999dbd7685f26fa8e55d%22%2C%22scm%22%3A%2220140713.130064515..%22%7D&request_id=10909972c5da999dbd7685f26fa8e55d&biz_id=206&utm_medium=distribute.pc_search_result.none-task-user-null-2-154590931-null-null.nonecase&utm_term=ChinaRyan&spm=1018.2226.3001.4351">最新文章 →</a>
   </td>
   </tr>
   </table>
