@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=曾集创赛国一选手;5年FPGA开发经验;全网粉丝1W%2B;博客阅读量20W%2B" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=曾集创赛国一选手;5年FPGA开发经验;全网粉丝1W%2B;博客阅读量20W%2B" alt="Typing SVG" />
 
 <br/>
 <br/>
@@ -22,6 +22,8 @@
 
 </div>
 
+<br/>
+
 <table width="100%">
 <tr>
 <td width="50%" align="center">
@@ -30,9 +32,11 @@
 
 <br/>
 
-**FPGA设计工程师**
+FPGA设计工程师
 
-5年开发经验 | 曾集创赛国一选手
+5年开发经验
+
+曾集创赛国一选手
 
 <br/>
 
@@ -44,9 +48,11 @@
 
 <br/>
 
-**全网粉丝 1W+**
+全网粉丝 1W+
 
-博客阅读 20W+ | CSDN • 公众号 • B站
+博客阅读 20W+
+
+CSDN • 公众号 • B站
 
 专注FPGA技术分享
 
@@ -61,6 +67,12 @@
 <div align="center">
 
 ### 专业领域
+
+</div>
+
+<br/>
+
+<div align="center">
 
 ![图像处理](https://img.shields.io/badge/图像处理-FF6B6B?style=for-the-badge&labelColor=1a1a2e)
 ![高低速接口](https://img.shields.io/badge/高低速接口-4ECDC4?style=for-the-badge&labelColor=1a1a2e)
@@ -83,17 +95,14 @@
 ## 公司介绍
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=2000&pause=1000&color=2F80ED&center=true&vCenter=true&width=900&lines=%E6%88%90%E9%83%BD%E9%B9%8F%E9%87%8E%E5%98%89%E9%80%94%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8" alt="Company Name" />
+</br>
+既是AI应用行业解决方案提供商，也是芯片行业解决方案提供商
+下设AI应用部门、芯片设计与验证部门和教仪事业部三大板块，
+专注做 AI 赋能芯片研发的先行者
 
-**PENGYEJIATUKEJI**
-
-<br/>
 <br/>
 
 ### 三大部门
-
-_泛AI应用部门 • 芯片设计与验证部门 • 教仪事业部_
-
-**专注做 AI 赋能芯片研发的先行者**
 
 </div>
 
@@ -141,30 +150,41 @@ _泛AI应用部门 • 芯片设计与验证部门 • 教仪事业部_
 
 <div align="center">
 
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+
 ### 公司使命
 
-> 顺应时代发展新格局集成AI+芯片技术新突破
-> 用AI重塑芯片研发效率
-> **予力客户，成就不凡**
-> **力求做到最好，做到极致**
+顺应时代发展新格局集成AI+芯片技术新突破
 
-<br/>
+用AI重塑芯片研发效率
+
+**予力客户，成就不凡 | 力求做到最好，做到极致**
+
+</td>
+<td width="50%" align="center">
 
 ### 公司愿景
 
-> 用 **IC Coder** 实现AI智能体自主芯片设计全流程
-> 助力开发者提效，赋能企业赢动更大市场
+用 **IC Coder** 实现AI智能体自主芯片设计全流程
+
+助力开发者提效，赋能企业赢动更大市场
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 ### 公司价值观
 
-![持续创新](https://img.shields.io/badge/持续创新-2F80ED?style=flat-square)
-![聚焦专精](https://img.shields.io/badge/聚焦专精-2F80ED?style=flat-square)
-![坦诚清晰](https://img.shields.io/badge/坦诚清晰-2F80ED?style=flat-square)
-![求真务实](https://img.shields.io/badge/求真务实-2F80ED?style=flat-square)
-![敢为极致](https://img.shields.io/badge/敢为极致-2F80ED?style=flat-square)
-![无限进步](https://img.shields.io/badge/无限进步-2F80ED?style=flat-square)
+![持续创新](https://img.shields.io/badge/持续创新-2F80ED?style=for-the-badge&labelColor=1a1a2e)
+![聚焦专精](https://img.shields.io/badge/聚焦专精-2F80ED?style=for-the-badge&labelColor=1a1a2e)
+![坦诚清晰](https://img.shields.io/badge/坦诚清晰-2F80ED?style=for-the-badge&labelColor=1a1a2e)
+![求真务实](https://img.shields.io/badge/求真务实-2F80ED?style=for-the-badge&labelColor=1a1a2e)
+![敢为极致](https://img.shields.io/badge/敢为极致-2F80ED?style=for-the-badge&labelColor=1a1a2e)
+![无限进步](https://img.shields.io/badge/无限进步-2F80ED?style=for-the-badge&labelColor=1a1a2e)
 
 </div>
 
@@ -174,7 +194,7 @@ _泛AI应用部门 • 芯片设计与验证部门 • 教仪事业部_
 
 <div align="center">
 
-## 核心产品 -- IC Coder
+## 核心产品
 
 <img src="img/image.png" width="100%" alt="IC Coder产品全景图"/>
 
