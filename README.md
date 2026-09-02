@@ -14,7 +14,7 @@ IC Coder 聚焦 FPGA 设计与验证场景，探索 FPGA 专用模型、FPGA 原
 
 - [官方网站](https://www.iccoder.com/)
 - [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=ICCoderAgenticVerilogPlatform.iccoder)
-- [产品介绍与公共资源](https://github.com/RyanFPGA/IC-Coder)
+- [产品信息与公共资源入口](https://github.com/RyanFPGA/IC-Coder)
 
 ## 关注方向
 
@@ -23,12 +23,6 @@ IC Coder 聚焦 FPGA 设计与验证场景，探索 FPGA 专用模型、FPGA 原
 - FPGA 设计与验证
 - FPGA 专用模型与原生 Harness
 - FPGA 工程实践与技术分享
-
-## 代表项目
-
-- [IC-Coder](https://github.com/RyanFPGA/IC-Coder) — IC Coder 产品介绍与公共资源入口
-- [Dual-Channel-ADC-Collection-Module](https://github.com/RyanFPGA/Dual-Channel-ADC-Collection-Module) — 双通道 ADC 采集模块
-- [2025-FPGARACE-ZiGuang-2](https://github.com/RyanFPGA/2025-FPGARACE-ZiGuang-2) — FPGA 竞赛项目
 
 ## 技术内容
 
@@ -43,4 +37,3 @@ I'm Ryan, founder of IC Coder and CEO of 鹏野嘉途. I focus on **AI for EDA**
 We are building IC Coder, an AI Agent R&D platform for FPGA design and verification, centered on the IC Coder model and IC Coder Harness.
 
 **Mission: Empower FPGA developers through AI.**
-
